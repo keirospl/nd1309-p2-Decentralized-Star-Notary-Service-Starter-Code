@@ -1,3 +1,10 @@
+1. Your ERC-721 Token Name: KKK Token
+2. Your ERC-721 Token Symbol: KKK
+3. Version of the Truffle and OpenZeppelin used: Truffle v5.11.5, openzeppelin-solidity v2.3
+4. Your Token Address on the Sepolia Network: 
+
+
+
 # ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
