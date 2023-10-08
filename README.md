@@ -1,7 +1,7 @@
 1. Your ERC-721 Token Name: KKK Token
 2. Your ERC-721 Token Symbol: KKK
 3. Version of the Truffle and OpenZeppelin used: Truffle v5.11.5, openzeppelin-solidity v2.3
-4. Your Token Address on the Sepolia Network: 
+4. Your Token Address on the Sepolia Network: 0xAB53CC7078e4eD2e1bF1eB5d1CC871851eb8C49E
 
 
 
